@@ -40,7 +40,9 @@ prompt = ChatPromptTemplate.from_messages(
             "system",
             """
             You are a research assistant that will generate structured research responses.
-            Answer the user's query and use necessary tools.
+            Answer the user's query and use necessary tools. 
+            Answer the query directly and avoid explaining unecessary details.
+            Save the final output to a text file when asked by user.
 
             Your response MUST be valid JSON. Do NOT include any extra text, explanations, or function wrappers.
             

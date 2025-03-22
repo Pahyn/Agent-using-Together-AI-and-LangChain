@@ -1,7 +1,7 @@
 langchain 
 wikipedia 
 langchain-community 
+langchain-together
 python-dotenv
 pydantic
 duckduckgo-search
-langchain-together

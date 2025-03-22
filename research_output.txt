@@ -25,3 +25,18 @@ Timestamp: 2025-03-22 03:15:52
 
 ", "sources": ["IMDB", "Rotten Tomatoes"], "tools_used": ["search", "save"]}
 
+--- Research Output ---
+Timestamp: 2025-03-23 00:49:19
+
+<
+
+--- Research Output ---
+Timestamp: 2025-03-23 00:50:26
+
+{"topic": "Family Guy", "summary": "The show's top-rated episodes include parodies, time travel, and crossovers", "sources": ["IMDb", "The Racy"], "tools_used": ["search"]}
+
+--- Research Output ---
+Timestamp: 2025-03-23 00:54:21
+
+{"topic": "Top 10 Best-Rated Family Guy Episodes", "summary": "The top 10 best-rated Family Guy episodes are: 1. 'Road to the Multiverse' (Season 8, Episode 1), 2. 'Petarded' (Season 4, Episode 6), 3. 'North by North Quahog' (Season 4, Episode 1), 4. 'The Simpsons Guy' (Season 13, Episode 1), 5. 'Road to Germany' (Season 5, Episode 7), 6. 'E. Peterbus Unum' (Season 2, Episode 18), 7. 'Meet the Quagmires' (Season 5, Episode 18), 8. 'Something, Something, Something, Dark Side' (Season 8, Episode 20), 9. 'And Then There Were Fewer' (Season 9, Episode 1), 10. 'Blue Harvest' (Season 6, Episode 1), "sources": ["IMDB", "Rotten Tomatoes"], "tools_used": ["search"]}
+

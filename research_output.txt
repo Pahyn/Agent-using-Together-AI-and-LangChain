@@ -1,0 +1,27 @@
+--- Research Output ---
+Timestamp: 2025-03-22 03:13:01
+
+<
+
+--- Research Output ---
+Timestamp: 2025-03-22 03:13:26
+
+<
+
+--- Research Output ---
+Timestamp: 2025-03-22 03:15:52
+
+{"topic": "Top 10 Best Rated Family Guy Episodes", "summary": "The top 10 best rated Family Guy episodes are: 
+1. Road to the Multiverse, 
+2. Petarded, 
+3. The Simpsons Guy, 
+4. Road to Germany, 
+5. Road to the North Pole, 
+6. And Then There Were Fewer, 
+7. Meet the Quagmires, 
+8. Blue Harvest, 
+9. Something, Something, Something, Dark Side, 
+10. E. Peterbus Unum
+
+", "sources": ["IMDB", "Rotten Tomatoes"], "tools_used": ["search", "save"]}
+
